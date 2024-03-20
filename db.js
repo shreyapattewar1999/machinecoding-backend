@@ -13,7 +13,3 @@ const connectToDB = async () => {
 
 export default connectToDB;
 
-// password: t4Z0s0Doj7V5vwPm;
-// username: shreyapattewar1999;
-
-// mongodb+srv://shreyapattewar1999:t4Z0s0Doj7V5vwPm@cluster0.4inmq6y.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
